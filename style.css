@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: url(images/surf.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: blue;
+    height: 700px;
+}
+.icon {
+    font-size: 6em;
+}
+.card-img-top {
+    width: 100%;
+    height: 45vw;
+    object-fit: cover;
+}
+.mainElement {
+    margin-top: 40px;
+}
+
